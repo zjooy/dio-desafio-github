@@ -3,7 +3,7 @@
 ## Comandos git importantes 
 [Download Git](https://git-scm.com/downloads)
 
-👾Comandos rápidos para não esquecer gitbrind
+👾Comandos rápidos para não esquecer git
 
 🔹git init <nome do repositório> (cria um novo repositório)
 
